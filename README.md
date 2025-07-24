@@ -60,8 +60,8 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/chiragRane-Projects/adsmart-analyzer.git
-cd adsmart-analyzer/backend
+git clone https://github.com/chiragRane-Projects/AdSmart.git
+cd AdSmart
 
 # Create virtual environment
 python -m venv .venv
@@ -76,7 +76,6 @@ uvicorn main:app --reload
 
 Then in another terminal, run the Tkinter GUI:
 ```bash
-cd frontend
 python gui.py
 ```
 
@@ -84,14 +83,14 @@ python gui.py
 
 ## 🧪 Sample Input File
 
-> ✅ [Download Sample Excel](./adsmart_clustering_ready.xlsx)
+> ✅ [Download Sample Excel](./sample.xlsx)
 
 ---
 
 ## 📂 Project Structure
 
 ```
-adsmart-analyzer/
+Adsmart/
 ├── backend/
 │   ├── main.py
 │   ├── routes/
@@ -118,7 +117,7 @@ Final EXE will be in `/dist` folder.
 
 Feel free to fork, open issues, and suggest features!
 
-[🔗 LinkedIn](https://linkedin.com/in/chirag-yourhandle) | [🐙 GitHub](https://github.com/chiragRane-Projects)
+[🔗 LinkedIn](https://www.linkedin.com/in/chirag-rane-2a7ba5270/) | [🐙 GitHub](https://github.com/chiragRane-Projects)
 
 ---
 
